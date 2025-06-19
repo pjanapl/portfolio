@@ -15,12 +15,14 @@ save_product_list_to_file = True
 product_pages = 75
 category_url = '/kategoria/mezczyzna,13224'
 page_prefix = '?Page='
+
 # Strony produktów
 scrape_products_pages = False
 get_products_data_from_file = False
 save_products_data_to_file = True
 start = 0
-stop = 10
+stop = 4000
+
 # Dane wyjściowe
 columns = ['product_id',
            'name',
@@ -158,7 +160,7 @@ if scrape_products_pages:
         if i >= start and i <= stop:
             print('Scraping page no. ' + str(i))
             products_data.append(scrape_product_page(page))
-    products_data = columns + products_data
+    products_data = [columns] + products_data
     if save_products_data_to_file:
         with open(products_data_pickle_filename, 'wb') as file:
             pickle.dump(products_data, file)
@@ -166,5 +168,3 @@ elif get_products_data_from_file:
     print('Pobieranie danych produktów z pliku.')
     with open(products_data_pickle_filename, 'rb') as file:
         products_data = pickle.load(file)
-
-print(products_data)
