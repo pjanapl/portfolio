@@ -36,10 +36,10 @@ Tabela z harmonogramem poszczególnych etapów.
 |----|----|----|----|----|
 | Stworzenie scrapera i pobranie danych | 19.06.2025 | 1 dzień | - | - |
 | Preprocessing | 20.06.2025 | 1 dzień | - | - |
-| EDA | 23.06.2025 | 1 dzień | - | - |
-| Wnioskowanie statystyczne | 24.06.2025 | 1 dzień | - | - |
-| Budowanie modeli ML | 25.06.2025 | 2 dni | - | - |
-| Wizualizacja i prezentacja | 27.06.2025 | 1 dzień | - | - |
+| EDA | 23.06.2025 | 2 dni | - | - |
+| Wnioskowanie statystyczne | 25.06.2025 | 1 dzień | - | - |
+| Budowanie modeli ML | 26.06.2025 | 2 dni | - | - |
+| Wizualizacja i prezentacja | 28.06.2025 | 1 dzień | - | - |
 
 ## Etapy projektu
 
