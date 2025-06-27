@@ -8,9 +8,9 @@ Spis treści z odnośnikami.
 
 ### Opis projektu
 
-Niniejszy projekt został stworzony jako element mojego portfolio. Jego celem jest prezentacja moich aktualnych umiejętności w dziedzinie analizy danych oraz wzmacnianie kompetencji pozyskanych w wyniku nauki. Ostatnie 5 miesięcy poświęciłem na intensywną naukę wielu aspektów związanych z analizą danych. Niektóre z nich poznawałem od podstaw (np. biblioteki naukowe Pythona, regresja, uczenie maszynowe), inne musiałem porządnie odświeżyć (np. statystyka) a jeszcze inne stanowiły solidną podstawę wyniesioną z innych doświadczeń zawodowych (np. programowanie, kwerendy SQL, planowanie projektów). W ramach nauki (kursy online, praca z książkami) miałem okazję pracować nad wieloma cząstkowymi projektami. Niniejszy projekt jest pierwszą próbą stworzenia pełnego projektu analitycznego wykorzystującego w praktyce wiele poznanych przeze mnie narzędzi i koncepcji.
+Niniejszy projekt został stworzony jako element mojego portfolio. Jego celem jest prezentacja moich aktualnych umiejętności w dziedzinie analizy danych oraz wzmacnianie kompetencji pozyskanych w wyniku nauki. Ostatnie 5 miesięcy poświęciłem na intensywną naukę wielu aspektów związanych z analizą danych. Niektóre z nich poznawałem od podstaw (np. biblioteki naukowe Pythona, regresja, uczenie maszynowe), inne musiałem porządnie odświeżyć (np. statystyka) a jeszcze inne stanowiły solidną podstawę wyniesioną z innych doświadczeń zawodowych (np. programowanie, kwerendy SQL, planowanie projektów). W ramach nauki (kursy online, praca z książkami) miałem okazję pracować nad wieloma cząstkowymi projektami. Niniejszy projekt jest próbą stworzenia projektu analitycznego wykorzystującego w praktyce pełne spektrum poznanych przeze mnie narzędzi i koncepcji.
 
-Repozytorium plików projektu znajduje się na githubie: ______
+Repozytorium plików projektu: [Projekt Rossmann](https://github.com/pjanapl/portfolio/tree/main/rossmann)
 
 ### Abstrakt
 
@@ -24,6 +24,7 @@ Pobrane przez scrapera i wstępnie oczyszczone dane (np. zamiana cen z formatu *
 
 Dokładny opis struktury danych pobranych ze strony oraz opis i kod *scrapera* znajduje się w artykule: _______
 
+
 ### Osoby zaangażowane w projekt
 
 Jest to projekt realizowany indywidualnie, bez udziału innych osób.
@@ -32,14 +33,14 @@ Jest to projekt realizowany indywidualnie, bez udziału innych osób.
 
 Tabela z harmonogramem poszczególnych etapów.
 
-| Etap | Data rozpoczęcia | Czas trwania | Opóźnienia | Link |
-|----|----|----|----|----|
-| Stworzenie scrapera i pobranie danych | 19.06.2025 | 1 dzień | - | - |
-| Preprocessing | 20.06.2025 | 1 dzień | - | - |
-| EDA | 23.06.2025 | 2 dni | - | - |
-| Wnioskowanie statystyczne | 25.06.2025 | 1 dzień | - | - |
-| Budowanie modeli ML | 26.06.2025 | 2 dni | - | - |
-| Wizualizacja i prezentacja | 28.06.2025 | 1 dzień | - | - |
+| Etap | Data rozpoczęcia | Czas trwania | Link |
+|----|----|----|----|
+| Stworzenie scrapera i pobranie danych | 19.06.2025 | 1 dzień | [scraper](https://pjana.pl/post/2025-06-20-rossmann-ii-scraper) |
+| Preprocessing | 20.06.2025 | 1 dzień | - |
+| EDA | 23.06.2025 | 2 dni | - |
+| Wnioskowanie statystyczne | 27.06.2025 | 1 dzień | - |
+| Budowanie modeli ML | 30.06.2025 | 2 dni | - |
+| Wizualizacja i prezentacja | 2.07.2025 | 1 dzień | - |
 
 ## Etapy projektu
 
